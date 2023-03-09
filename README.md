@@ -1,4 +1,4 @@
-# -JAVA-Clase6Ej4
+# JAVA-Clase6Ej4
 
 Ejemplo 4 del apunte de [JAVA Clase 6](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA6.pdf).
 <ul>
